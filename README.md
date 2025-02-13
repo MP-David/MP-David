@@ -11,15 +11,16 @@
     title="ANDROID" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg"
 />
+
 <img 
     align="left" 
     alt="JAVA" 
     title="JAVA"
     width="30px" 
     style="padding-right: 10px;" 
-    src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
 />
 <img 
     align="left" 
@@ -27,7 +28,7 @@
     title="KOTLIN"
     width="30px" 
     style="padding-right: 10px;" 
-    src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
 />
 <img 
     align="left" 
