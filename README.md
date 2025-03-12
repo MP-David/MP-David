@@ -1,4 +1,4 @@
-# 👩🏻‍💻 David Marlon
+# David Marlon
 
 **`Desenvolvedor BackEnd`**
 ---
