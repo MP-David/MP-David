@@ -25,20 +25,20 @@
 
 <img 
     align="left" 
-    alt="ANDROID"
-    title="ANDROID" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg"
-/>
-
-<img 
-    align="left" 
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="ANDROID"
+    title="ANDROID" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg"
 />
 
 <img 
