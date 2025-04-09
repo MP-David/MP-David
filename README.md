@@ -1,6 +1,6 @@
 # David Marlon
 
-**`Desenvolvedor BackEnd`**
+**`Desenvolvedor`**
 ---
 
 ### 🤖 Linguagens e Tecnologias
