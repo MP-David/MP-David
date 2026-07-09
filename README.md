@@ -28,10 +28,7 @@ Sou um desenvolvedor de software focado em criar soluções eficientes, arquitet
 
 ### 📊 Estatísticas
 
-<p align="left">
-  <img alt="GitHub Stats" height="190" src="https://github-readme-stats.vercel.app/api?username=MP-David&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img alt="Top Langs" height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MP-David&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=MP-David&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" height="190" alt="Estatísticas do GitHub" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MP-David&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" height="190" alt="Linguagens mais usadas" />
 
 ### 📫 Como me encontrar
 
